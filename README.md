@@ -1,5 +1,9 @@
 # Proyectos_GitHub_Presentation
 
+![](http://www.quickmeme.com/img/75/7509f68823389e4af3777ca6d3744c632cc32ab3547bc56e319126aa29ab149a.jpg)
+
+[Fuente: quickmeme](http://www.quickmeme.com/p/3vs3uz)
+
 Este repositorio se creó para la elaboración de la presentación del paper _Excuse me, do you have a moment to talk about version control?_ (Brayan, 2017) de la clase de **Desarrollo de Proyectos I** de la Maestría en Ciencia de Datos (MCD) de la Universidad de Guadalajara.
 
 Su motivo principal es documentar el procedimiento y servir como guía de apoyo para aquellos que deseen hacer una presentación desde `python`.
@@ -43,7 +47,13 @@ Basados en diferentes tutoriales, (como [este](https://mljar.com/blog/jupyter-no
 3. Convertir nuestro archivo `.ipynb` en uno tipo `.html`. Para poder hacer esto existen varias modalidades, las más comunes:
    * Mostrar todo el contenido: `jupyter nbconvert --to slides presentation.ipynb`
    * No mostrar el código: `jupyter nbconvert --to slides --no-input presentation.ipynb`
-  
+
+## Voila!
+
+¡Ahora toca aprender **GitHub**!
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--NUSRQ-3J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redd.it/5iphhycu0io11.png)
+
 ## Referencias
 
 * Bryan, J. (2017, 28 de agosto). _Excuse me, do you have a moment to talk about version control?_ [Conferencia en línea]. RStudio and the Department of Statistics, University of British Columbia.
